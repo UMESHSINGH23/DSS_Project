@@ -157,9 +157,12 @@ Service performance improves when regional demand is evenly distributed across s
 This project focuses on **decision logic and interpretability**, aligning with MSc-level expectations for Decision Support Systems. Visualization tools are used only to enhance decision understanding and do not replace analytical modeling.
 
 ---
-
-## Author
-**Umesh Singh**  
+GROUP 3
+58326751	Umesh	Singh
+57844260	Inamulhasan	Syed
+80443189	Talatcan	Gültekin
+62472203	Cisem Bayer	Ferah
+65589515	Anandhu	Rajappan Krishnan 
 MSc Data Science  
 Decision Support Systems Project  
 
