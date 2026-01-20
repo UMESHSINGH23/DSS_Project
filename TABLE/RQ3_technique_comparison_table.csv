@@ -1,0 +1,4 @@
+Technique,Accuracy,Complexity,Suitability_for_DC_Location
+Linear Programming,High,Low,Very High
+K-Means Clustering,Medium,Low,Medium
+Genetic Algorithms,High,High,High
