@@ -37,27 +37,6 @@ This DSS helps answer:
 
 ---
 
-## Repository Structure
-
-DSS_Project/
-│
-├── app.py                         # Optional Streamlit interface
-├── final_dss_decision_dataset.csv # Integrated DSS dataset
-│
-├── RQ_data/                       # Research Question outputs
-│   ├── region_demand.csv
-│   ├── cost_comparison.csv
-│   ├── service_distribution.csv
-│   ├── technique_comparison.csv
-│   └── demand_scenario_costs.csv
-│
-├── RQ_figures/                    # All DSS figures (PNG)
-│
-├── TABLE/                         # DSS tables (CSV)
-│
-├── requirements.txt               # Streamlit dependencies
-└── README.md                      # Project documentation
-
 ---
 
 ## Research Questions & Answers
@@ -168,7 +147,6 @@ Decision Support Systems Project
 
 ---
 
-##  Conclusion
-This project demonstrates a complete and robust **Decision Support System** capable of supporting strategic distribution planning decisions under uncertainty. The system integrates data, models, scenarios, and insights in a structured and academically sound manner.
+Finally, Decision Support System** capable of supporting strategic distribution planning decisions under uncertainty. The system integrates data, models, scenarios, and insights in a structured and academically sound manner.
 
 ---
