@@ -158,11 +158,11 @@ This project focuses on **decision logic and interpretability**, aligning with M
 
 ---
 GROUP 3
-58326751	Umesh	Singh
-57844260	Inamulhasan	Syed
-80443189	Talatcan	Gültekin
-62472203	Cisem Bayer	Ferah
-65589515	Anandhu	Rajappan Krishnan 
+58326751	Umesh	Singh,
+57844260	Inamulhasan	Syed,
+80443189	Talatcan	Gültekin,
+62472203	Cisem Bayer	Ferah,
+65589515	Anandhu	Rajappan Krishnan ,
 MSc Data Science  
 Decision Support Systems Project  
 
